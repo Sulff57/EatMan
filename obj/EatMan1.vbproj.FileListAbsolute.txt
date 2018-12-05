@@ -1,0 +1,70 @@
+T:\Nadal\EatMan\EatMan\EatMan1\EatMan1\bin\Debug\EatMan1.exe
+T:\Nadal\EatMan\EatMan\EatMan1\EatMan1\bin\Debug\EatMan1.pdb
+T:\Nadal\EatMan\EatMan\EatMan1\EatMan1\bin\Debug\EatMan1.xml
+T:\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\ResolveAssemblyReference.cache
+T:\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan.Form1.resources
+T:\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan.Resources.resources
+T:\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan1.vbproj.GenerateResource.Cache
+T:\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan1.exe
+T:\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan1.xml
+T:\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan1.pdb
+F:\backup lecteur T lycée\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan1.exe
+F:\backup lecteur T lycée\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan1.xml
+F:\backup lecteur T lycée\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan1.pdb
+F:\backup lecteur T lycée\Nadal\EatMan\EatMan\EatMan1\EatMan1\bin\Debug\EatMan1.exe
+F:\backup lecteur T lycée\Nadal\EatMan\EatMan\EatMan1\EatMan1\bin\Debug\EatMan1.pdb
+F:\backup lecteur T lycée\Nadal\EatMan\EatMan\EatMan1\EatMan1\bin\Debug\EatMan1.xml
+F:\backup lecteur T lycée\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\ResolveAssemblyReference.cache
+F:\backup lecteur T lycée\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan.Form1.resources
+F:\backup lecteur T lycée\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan.Resources.resources
+F:\backup lecteur T lycée\Nadal\EatMan\EatMan\EatMan1\EatMan1\obj\Debug\EatMan1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\13434\Mes documents\EatMan1\EatMan1\obj\Debug\EatMan1.exe
+C:\Documents and Settings\13434\Mes documents\EatMan1\EatMan1\obj\Debug\EatMan1.xml
+C:\Documents and Settings\13434\Mes documents\EatMan1\EatMan1\obj\Debug\EatMan1.pdb
+C:\Documents and Settings\13434\Mes documents\EatMan1\EatMan1\bin\Debug\EatMan1.exe
+C:\Documents and Settings\13434\Mes documents\EatMan1\EatMan1\bin\Debug\EatMan1.pdb
+C:\Documents and Settings\13434\Mes documents\EatMan1\EatMan1\bin\Debug\EatMan1.xml
+C:\Documents and Settings\13434\Mes documents\EatMan1\EatMan1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\13434\Mes documents\EatMan1\EatMan1\obj\Debug\EatMan.Form1.resources
+C:\Documents and Settings\13434\Mes documents\EatMan1\EatMan1\obj\Debug\EatMan.Resources.resources
+C:\Documents and Settings\13434\Mes documents\EatMan1\EatMan1\obj\Debug\EatMan1.vbproj.GenerateResource.Cache
+T:\AP\EatMan1 old\EatMan1\bin\Debug\EatMan1.exe
+T:\AP\EatMan1 old\EatMan1\bin\Debug\EatMan1.pdb
+T:\AP\EatMan1 old\EatMan1\bin\Debug\EatMan1.xml
+T:\AP\EatMan1 old\EatMan1\obj\Debug\ResolveAssemblyReference.cache
+T:\AP\EatMan1 old\EatMan1\obj\Debug\EatMan.Form1.resources
+T:\AP\EatMan1 old\EatMan1\obj\Debug\EatMan.Resources.resources
+T:\AP\EatMan1 old\EatMan1\obj\Debug\EatMan1.vbproj.GenerateResource.Cache
+T:\AP\EatMan1 old\EatMan1\obj\Debug\EatMan1.exe
+T:\AP\EatMan1 old\EatMan1\obj\Debug\EatMan1.xml
+T:\AP\EatMan1 old\EatMan1\obj\Debug\EatMan1.pdb
+C:\Users\Sulff\Documents\backup lecteur T 18 mai 2011\AP last\EatMan1 (vb2005)\obj\Debug\EatMan1.exe
+C:\Users\Sulff\Documents\backup lecteur T 18 mai 2011\AP last\EatMan1 (vb2005)\obj\Debug\EatMan1.xml
+C:\Users\Sulff\Documents\backup lecteur T 18 mai 2011\AP last\EatMan1 (vb2005)\obj\Debug\EatMan1.pdb
+C:\Users\Sulff\Documents\backup lecteur T 18 mai 2011\AP last\EatMan1 (vb2005)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sulff\Documents\backup lecteur T 18 mai 2011\AP last\EatMan1 (vb2005)\obj\Debug\EatMan.Form1.resources
+C:\Users\Sulff\Documents\backup lecteur T 18 mai 2011\AP last\EatMan1 (vb2005)\obj\Debug\EatMan.Resources.resources
+C:\Users\Sulff\Documents\backup lecteur T 18 mai 2011\AP last\EatMan1 (vb2005)\obj\Debug\EatMan1.vbproj.GenerateResource.Cache
+C:\Users\Sulff\Documents\backup lecteur T 18 mai 2011\AP last\EatMan1 (vb2005)\bin\Debug\EatMan1.exe
+C:\Users\Sulff\Documents\backup lecteur T 18 mai 2011\AP last\EatMan1 (vb2005)\bin\Debug\EatMan1.pdb
+C:\Users\Sulff\Documents\backup lecteur T 18 mai 2011\AP last\EatMan1 (vb2005)\bin\Debug\EatMan1.xml
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\EatMan1 (vb2005)\obj\Debug\EatMan1.exe
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\EatMan1 (vb2005)\obj\Debug\EatMan1.xml
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\EatMan1 (vb2005)\obj\Debug\EatMan1.pdb
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\EatMan1 (vb2005)\bin\Debug\EatMan1.exe
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\EatMan1 (vb2005)\bin\Debug\EatMan1.pdb
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\EatMan1 (vb2005)\bin\Debug\EatMan1.xml
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\EatMan1 (vb2005)\obj\Debug\ResolveAssemblyReference.cache
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\EatMan1 (vb2005)\obj\Debug\EatMan.Form1.resources
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\EatMan1 (vb2005)\obj\Debug\EatMan.Resources.resources
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\EatMan1 (vb2005)\obj\Debug\EatMan1.vbproj.GenerateResource.Cache
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\EatMan1 (vb2005)\obj\Debug\EatMan1.exe
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\EatMan1 (vb2005)\obj\Debug\EatMan1.xml
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\EatMan1 (vb2005)\obj\Debug\EatMan1.pdb
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\EatMan1 (vb2005)\bin\Debug\EatMan1.exe
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\EatMan1 (vb2005)\bin\Debug\EatMan1.pdb
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\EatMan1 (vb2005)\bin\Debug\EatMan1.xml
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\EatMan1 (vb2005)\obj\Debug\ResolveAssemblyReference.cache
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\EatMan1 (vb2005)\obj\Debug\EatMan.Form1.resources
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\EatMan1 (vb2005)\obj\Debug\EatMan.Resources.resources
+C:\backup 26 05 2011\Users\Sulff\Documents\BTS\IG2\code\code\AP\Applications\EatMan1 (vb2005)\obj\Debug\EatMan1.vbproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\bin\Debug\EatMan1.exe
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\bin\Debug\EatMan1.pdb
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\bin\Debug\EatMan1.xml
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\obj\Debug\EatMan1.vbprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\obj\Debug\EatMan.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\obj\Debug\EatMan.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\obj\Debug\EatMan1.vbproj.GenerateResource.cache
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\obj\Debug\EatMan1.vbproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\obj\Debug\EatMan1.exe
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\obj\Debug\EatMan1.xml
+C:\Users\Home\Documents\Visual Studio 2017\Backup Files\EatMan1 (vb2005)\obj\Debug\EatMan1.pdb
